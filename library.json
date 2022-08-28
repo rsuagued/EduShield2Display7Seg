@@ -1,0 +1,28 @@
+{
+  "name": Edushield2display7Seg
+  "keywords": "pcf8574, display, 7seg, EduShield"
+  "description": "Arduino & ESP Library for EduShield2Display7Seg (PCF8574)",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/xxx"
+  },
+  "authors": 
+  [
+    {
+      "name": "Roberto José Suárez Guedes",
+      "email": "roberto@gmial.com",
+      "url": "http://www.",
+      "maintainer": true
+    }
+  ],
+  "dependencies":
+  {
+    "name": "Wire",
+    "authors": "",
+    "frameworks": "arduino"
+  },
+  "version": "3.8.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}

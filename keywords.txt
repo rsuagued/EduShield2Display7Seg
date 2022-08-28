@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For DallasTemperature
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+DoubleDisplay 			KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+byteWrite			KEYWORD2
+clearDisplayNumber		KEYWORD2
+displaysOFF			KEYWORD2
+setSegmentDigit1		KEYWORD2
+setSegmentDigit2		KEYWORD2
+selectDigitDisplay		KEYWORD2
+writeBCD			KEYWORD2
+writeDigit			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+SEGMENTO_a			LITERAL1
+SEGMENTO_b			LITERAL1
+SEGMENTO_c			LITERAL1
+SEGMENTO_d			LITERAL1
+SEGMENTO_e			LITERAL1
+SEGMENTO_f			LITERAL1
+SEGMENTO_g			LITERAL1
+SEGMENTO_dp			LITERAL1
+			
