@@ -27,3 +27,7 @@ Created by Roberto José Suárez Guedes
 
 You can find the latest version of the library at
 https://www3.gobiernodecanarias.org/medusa/ecoblog/rsuagued
+
+## La placa
+Se trata de una placa con doble display 7 segmentos de ánodo común controlada por un PCF8574. Como el integrado da poca corriente de alimentación a Vcc, debido a que funciona como drenador abierto, se tienen que usar resistencias de pull-up, aparte de las limitadoras. Adicionalmente se controla el encendido de cada display con dos transistores en emisor común. Los valores que atacan a los displays se envían por medio de I2C.
+Mire el esquema anexo.
